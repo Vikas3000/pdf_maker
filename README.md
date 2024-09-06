@@ -29,9 +29,11 @@ Automatic PDF Maker is a Flutter application designed to generate PDFs automatic
 - **Printing Support**: Directly print the generated PDFs.
 
 ## Screenshots
-![WhatsApp Image 2024-09-06 at 12 40 53 PM (1)](https://github.com/user-attachments/assets/c5c548d2-53f8-4cd6-b492-62d34aa0bdbf)
-![WhatsApp Image 2024-09-06 at 12 40 53 PM](https://github.com/user-attachments/assets/60defe3b-e3c5-49fe-96ac-1a2a291eed92)
-![WhatsApp Image 2024-09-06 at 12 40 54 PM](https://github.com/user-attachments/assets/f032bc4d-6f75-4559-9d9e-3e84b5706374)
+![WhatsApp Image 2024-09-06 at 12 40 53 PM (1)](https://github.com/user-attachments/assets/c5c548d2-53f8-4cd6-b492-62d34aa0bdbf)          ![WhatsApp Image 2024-09-06 at 12 40 52 PM](https://github.com/user-attachments/assets/1ab1adba-28cc-47f6-a3c6-d0ce84734632)
+
+
+![WhatsApp Image 2024-09-06 at 12 40 53 PM](https://github.com/user-attachments/assets/60defe3b-e3c5-49fe-96ac-1a2a291eed92)         ![WhatsApp Image 2024-09-06 at 12 40 54 PM](https://github.com/user-attachments/assets/f032bc4d-6f75-4559-9d9e-3e84b5706374)
+
 
 
  
